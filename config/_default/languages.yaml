@@ -20,6 +20,12 @@ de:
       - name: Abschlüssarbeiten
         url: theses
         weight: 30
+      - name: Lehre
+        url: lehre
+        weight: 40
+      - name: Kontakt
+        url: contact
+        weight: 60
 
 # Uncomment the lines below to configure your website in a second language.
 #zh:

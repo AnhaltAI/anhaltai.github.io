@@ -15,6 +15,8 @@ weight: 30
 title:
 subtitle:
 
+active: false
+
 design:
   columns: '1'
   background:
