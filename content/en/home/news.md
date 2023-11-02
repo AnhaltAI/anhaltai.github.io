@@ -11,7 +11,7 @@ content:
   count: 5
   filters:
     author: ''
-    category: ''
+    category: 'News'
     exclude_featured: false
     publication_type: ''
     tag: ''
