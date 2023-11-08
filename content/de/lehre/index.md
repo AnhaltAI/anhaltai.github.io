@@ -4,3 +4,29 @@ title: My page
 # Page type - we want a landing page (such as a homepage)
 type: widget_page
 ---
+
+<!--
+SS 2024
+KI 
+Data Mining Techniken
+WS 2023/24
+Stochastik
+KI für SPieleentwicklung
+Deep Learning
+SS 2023
+KI 
+Data Mining Techniken
+KI für SPieleentwicklung
+Projekt Data Science
+WS 2022/23
+Stochastik
+Deep Learning
+Projekt Data Science
+SS 2022
+KI 
+Data Mining (Wpfl IMS) / Feature Extraktion and Fortgeschrittene Methoden des Data Mining (MDS)
+Projekt Data Science
+WS 2021/22
+KI 
+Stochastik
+-->
