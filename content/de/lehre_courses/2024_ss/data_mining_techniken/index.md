@@ -10,7 +10,6 @@ tags: [
 # Latest Modulhandbuch p.27
 authors: ['admin']
 ---
-
 ## Modul Inhalt:
 Data Science ist ein interdisziplinäres Fachgebiet, das sich mit der Extraktion von Wissen und Erkenntnissen aus Daten befasst. Es kombiniert Kenntnisse aus Statistik, Informatik und Fachkenntnissen in einem bestimmten Bereich, um Muster und Trends in großen Datenmengen zu identifizieren. 
 
@@ -32,8 +31,8 @@ Ergebnisse durch geeignete Visualisierungstechniken zu präsentieren.
 -->
 ## Links
 Moodle:
-- SS 2024: <https://moodle.hs-anhalt.de/course/view.php?id=4175>
-- SS 2023: **TODO**, not yet available.
+- SS 2023: <https://moodle.hs-anhalt.de/course/view.php?id=4175>
+- SS 2024: **TODO**, not yet available.
 
 
 <!--
