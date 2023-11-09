@@ -5,6 +5,7 @@ publishDate: '2023-11-02T00:00:00Z'
 categories: []
 tags: [
 'ss_2023', 
+'ss_2024', 
 ]
 # Latest Modulhandbuch p.27
 authors: ['admin']
@@ -24,7 +25,8 @@ Ergebnisse durch geeignete Visualisierungstechniken zu präsentieren.
 
 ## Links
 Moodle:
-- SS 2023: <https://moodle.hs-anhalt.de/course/view.php?id=4175>
+- SS 2024: <https://moodle.hs-anhalt.de/course/view.php?id=4175>
+- SS 2023: **TODO**, not yet available.
 
 
 <!--

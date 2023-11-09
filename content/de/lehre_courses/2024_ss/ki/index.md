@@ -11,7 +11,10 @@ tags: [
 ]
 # Modulhandbuch p.88
 authors: ['admin']
-Zuordnung: [ 'Pflichtmodul für AIN – Digitale Medien und Spieleentwicklung (IMS)', 'Wahlpflichtmodul für Data Science (MDS)' ]
+
+image:
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  focal_point: Right
 ---
 
 ## Modulziele
@@ -29,7 +32,6 @@ und in einfachen Fällen auch selbst implementieren und anpassen.
 
 ## Links
 Moodle:
-- SS 2024: **TODO**: no link in [Persönliches Profil: Hänig, Christian](https://moodle.hs-anhalt.de/course/view.php?id=4172)
 - SS 2023: <https://moodle.hs-anhalt.de/course/view.php?id=4173>
 - SS 2022: <https://moodle.hs-anhalt.de/course/view.php?id=3497>
 - WS 2021-2022: <https://moodle.hs-anhalt.de/course/view.php?id=3088>
