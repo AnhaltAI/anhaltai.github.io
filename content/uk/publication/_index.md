@@ -1,5 +1,7 @@
 ---
-title: Publications
+title: Publications and Awards
+#title: ' '
+#title: 'Awards'
 
 #type: landing
 # Listing view
@@ -10,7 +12,14 @@ banner:
   caption: ''
   image: ''
 ---
+## Awards
+<!-- (See also our [Awards]({{< relref "awards" >}})!) -->
+### Paper awards
+- One
+- Two
 
-(See also our [Awards]({{< relref "awards" >}})!)
-<br>
-<br>
+### Competitons awards
+- THree
+
+
+## Publications

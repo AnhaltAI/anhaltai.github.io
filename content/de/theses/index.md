@@ -1,6 +1,6 @@
 ---
 # Page title
-title: Theses
+title: Abschlussarbeiten
 # Page type - we want a landing page (such as a homepage)
 type: widget_page
 ---
