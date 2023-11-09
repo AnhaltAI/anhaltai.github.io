@@ -22,7 +22,7 @@ content:
   #page_type: post
   sort_by: 'Title'
 design:
-  columns: '2'
+  columns: '1'
 #  #view: 3
 #  view: list
 ---

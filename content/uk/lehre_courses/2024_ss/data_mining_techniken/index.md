@@ -1,6 +1,6 @@
 ---
 title: Data Mining Techniken
-summary: 'Die Studierenden erweitern ihr Portfolio an Methoden um komplexere Modelle des Data Mining und können diese anwenden. '  
+summary: 'Die Studierenden erweitern ihr Portfolio an Methoden um komplexere Modelle des Data Mining und können diese anwenden.'  
 publishDate: '2023-11-02T00:00:00Z'
 categories: []
 tags: [
@@ -10,8 +10,13 @@ tags: [
 # Latest Modulhandbuch p.27
 authors: ['admin']
 ---
+## Modul Inhalt:
+Data Science ist ein interdisziplinäres Fachgebiet, das sich mit der Extraktion von Wissen und Erkenntnissen aus Daten befasst. Es kombiniert Kenntnisse aus Statistik, Informatik und Fachkenntnissen in einem bestimmten Bereich, um Muster und Trends in großen Datenmengen zu identifizieren. 
 
-## Modulziele / Angestrebte Lernergebnisse:
+<!--
+Modulhandbuch version: 
+
+
 Aufbauend auf den bereits erworbenen Grundkenntnissen aus den Bereichen Statistik und Data
 Mining festigen Studierende das Wissen über das CRISP-Modell eines Data Mining Projektes und
 legen dabei besonderen Wert auf Fragen des Datenverständnisses und der Datenqualität. Die
@@ -23,10 +28,11 @@ zu erkennen und umzusetzen. Sie sind in der Lage, die jeweils sachgerechten stat
 und Methoden für die Analyse komplexer Datenbestände auszuwählen, anzuwenden und die
 Ergebnisse durch geeignete Visualisierungstechniken zu präsentieren.
 
+-->
 ## Links
 Moodle:
-- SS 2024: <https://moodle.hs-anhalt.de/course/view.php?id=4175>
-- SS 2023: **TODO**, not yet available.
+- SS 2023: <https://moodle.hs-anhalt.de/course/view.php?id=4175>
+- SS 2024: **TODO**, not yet available.
 
 
 <!--
