@@ -1,6 +1,7 @@
 ---
 title: Publications
 
+#type: landing
 # Listing view
 view: citation
 
@@ -9,3 +10,7 @@ banner:
   caption: ''
   image: ''
 ---
+
+(See also our [Awards]({{< relref "awards" >}})!)
+<br>
+<br>

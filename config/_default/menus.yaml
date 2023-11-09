@@ -15,18 +15,24 @@ main:
   - name: Blog
     url: post
     weight: 20
-  - name: Theses
-    url: theses
-    weight: 30
   - name: People
     url: people
+    weight: 30
+  - name: Courses
+    url: lehre
     weight: 40
-    #  - name: Events
-    #url: event
-    #weight: 40
+  - name: Theses
+    url: theses
+    weight: 50
+  - name: Projects
+    url: projects
+    weight: 60
   - name: Publications
     url: publication
     weight: 50
+  - name: Awards
+    url: awards
+    weight: 60
   - name: Contact
     url: contact
-    weight: 60
+    weight: 70
