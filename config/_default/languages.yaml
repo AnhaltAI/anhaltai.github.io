@@ -4,10 +4,10 @@
 
 # Default language
 en:
-  languageCode: en-us
+  languageCode: en
   contentDir: content/en
 de:
-  languageCode: de-de
+  languageCode: de
   contentDir: content/de
   menu:
     main:
@@ -26,7 +26,7 @@ de:
       - name: Abschlüssarbeiten
         url: theses
         weight: 50
-      - name: Projekte / Forschungsthemen
+      - name: Projekte&nbsp;/&nbsp;Forschungsthemen
         url: projects
         weight: 60
       - name: Publications
@@ -38,6 +38,39 @@ de:
       - name: Kontakt
         url: contact
         weight: 70
+uk:
+  languageCode: uk
+  contentDir: content/uk
+  menu:
+    main:
+      - name: Home
+        url: /
+        weight: 10
+      - name: Блог
+        url: post
+        weight: 20
+      - name: Люди
+        url: people
+        weight: 30
+      - name: Навчання
+        url: lehre
+        weight: 40
+      - name: Дипломні&nbsp;роботи
+        url: theses
+        weight: 50
+      - name: Проєкти&nbsp;та&nbsp;теми&nbsp;досліджень  # теми наукової роботи? 
+        url: projects
+        weight: 60
+      - name: Публікації
+        url: publication
+        weight: 50
+      - name: Нагороди
+        url: awards
+        weight: 60
+      - name: Контакти
+        url: contact
+        weight: 70
+
 
 # Uncomment the lines below to configure your website in a second language.
 #zh:
