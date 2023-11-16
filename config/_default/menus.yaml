@@ -6,34 +6,30 @@
 # Non-English menus in languages.yaml - SH
 
 main:
-    #  - name: Tour
-    #url: tour
-    #weight: 10
   - name: Home
     url: /
     weight: 10
   - name: Blog
     url: post
     weight: 20
-  - name: People
+  - name: Personen
     url: people
     weight: 30
-  - name: Courses
+  - name: Lehre
     url: lehre
     weight: 40
-  - name: Theses
+  - name: Abschlussarbeiten
     url: theses
     weight: 50
-  - name: Projects
+  - name: Projekte
     url: projects
     weight: 60
-  - name: Research interests
+  - name: Forschungsthemen
     url: research_interests
     weight: 65
-  - name: Publications
+  - name: Veröffentlichungen
     url: publication
     weight: 50
-    identifier: pub
-  - name: Contact
+  - name: Kontakt
     url: contact
     weight: 70
