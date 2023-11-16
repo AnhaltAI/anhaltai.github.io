@@ -27,21 +27,13 @@ main:
   - name: Projects
     url: projects
     weight: 60
+  - name: Research interests
+    url: research_interests
+    weight: 65
   - name: Publications
     url: publication
     weight: 50
     identifier: pub
-  - name: Publications
-    url: publication
-    weight: 1
-    parent: pub
-  - name: Awards
-    url: awards
-    weight: 2
-    parent: pub
-    #- name: Awards
-    #url: awards
-    #weight: 60
   - name: Contact
     url: contact
     weight: 70
