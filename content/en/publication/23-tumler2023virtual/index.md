@@ -1,10 +1,10 @@
 ---
 title: 'Virtual Reality, Eye Tracking and Machine Learning: Analysis of Learning Outcomes in Off-the-Shelve VR-Software'
 authors:
-  - Tümler, Johannes 
-  - Erazo Sanchez
-  - Juan Enrique 
-  - Hänig, Christian
+  - Johannes Tümler
+  - Sanchez Eraz
+  - Enrique Jua
+  - Christian Hänig
 date: '2023-09-11T00:00:00Z'
 doi: '10.18420/delfi2023-32'
 

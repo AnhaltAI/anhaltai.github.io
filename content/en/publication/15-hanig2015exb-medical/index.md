@@ -1,10 +1,10 @@
 ---
 title: 'ExB Medical Text Miner'
 authors:
-  - Hänig, Christian
-  - Remus, Robert 
-  - Demchik, Vadim
-  - Bordag, Stefan
+  - Christian Hänig
+  - Robert Remus
+  - Vadim Demchik
+  - Stefan Bordag
 # the Proceedings were published in 2017, paper is from 2015... https://biocreative.bioinformatics.udel.edu/resources/publications/bcv_proceedings/
 date: '2017-05-19T00:00:00Z'
 #doi: '10.18653/v1/s15-2046'

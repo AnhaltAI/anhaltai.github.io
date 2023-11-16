@@ -1,9 +1,9 @@
 ---
 title: 'A Structuralist Approach for Personal Knowledge Exploration Systems on Mobile Devices'
 authors:
-  - Bordag, Stefan
-  - Hänig, Christian
-  - Beutenmüller, Christian
+  - Stefan Bordag
+  - Christian Hänig
+  - Christian Beutenmüller
 date: '2014-12-13T00:00:00Z'
 doi: 'https://doi.org/10.1007/978-3-319-12655-5_6'
 

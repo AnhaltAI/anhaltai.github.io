@@ -1,11 +1,12 @@
 ---
-title: 'Exb themis: Extensive feature extraction from word alignments for semantic textual similarity'
+title: 'Modular classifier ensemble architecture for named entity recognition on low resource systems'
 authors:
   - Christian Hänig
-  - Robert Remus
-  - Xose De La Puente
-date: '2015-06-01T00:00:00Z'
-doi: '10.18653/v1/s15-2046'
+  - Stefan Thomas
+  - Stefan Bordag
+date: '2014-11-25T00:00:00Z'
+# https://hildok.bsz-bw.de/frontdoor/index/index/docId/284
+#doi: 'https://doi.org/10.1007/978-3-319-12655-5_6'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2023-11-09T00:00:00Z'
@@ -17,10 +18,10 @@ publishDate: '2023-11-09T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: 'in *Proceedings of the 9th International Workshop on Semantic Evaluation (SemEval 2015)*'
-publication_short: 'In *SemEval2015*'
+publication: 'in *Workshop Proceedings of the 12th Edition of the KONVENS Conference*'
+publication_short: 'in *Workshop Proceedings of the 12th Edition of the KONVENS Conference*'
 
-abstract: 'We present ExB Themis–a word alignmentbased semantic textual similarity system developed for SemEval-2015 Task 2: Semantic Textual Similarity. It combines both string and semantic similarity measures as well as alignment features using Support Vector Regression. It occupies the first three places on Spanish data and additionally places second on English data. ExB Themis proved to be the best multilingual system among all participants.'
+abstract: 'This paper presents the best performing Named Entity Recognition system in the GermEval 2014 Shared Task. Our approach combines semi-automatically created lexical resources with an ensemble of binary classifiers which extract the most likely tag sequence. Out-of-vocabulary words are tackled with semantic generalization extracted from a large corpus and an ensemble of part-of-speech taggers, one of which is unsupervised. Unknown candidate sequences are resolved using a look-up with the Wikipedia API.'
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -29,10 +30,10 @@ tags:
   - paper-tag
 featured: true
 
-#links:
-#  - name: Digitale Bibliothek
-#    url: https://dl.gi.de/items/6f7ad8e3-59c4-4c3c-a767-3371c94eec7e/full
-#url_pdf: https://arxiv.org/pdf/2302.04562.pdf
+links:
+  - name: HilPub
+    url: https://hilpub.uni-hildesheim.de/entities/publication/84025e3c-3bb1-4a92-bb92-54e7a91da08d/details
+url_pdf: https://hildok.bsz-bw.de/files/284/03_02.pdf
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
