@@ -1,11 +1,11 @@
 ---
-title: 'Exb themis: Extensive feature extraction from word alignments for semantic textual similarity'
+title: 'A Structuralist Approach for Personal Knowledge Exploration Systems on Mobile Devices'
 authors:
+  - Bordag, Stefan
   - Hänig, Christian
-  - Remus, Robert 
-  - De La Puente, Xose
-date: '2015-06-01T00:00:00Z'
-doi: '10.18653/v1/s15-2046'
+  - Beutenmüller, Christian
+date: '2014-12-13T00:00:00Z'
+doi: 'https://doi.org/10.1007/978-3-319-12655-5_6'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2023-11-09T00:00:00Z'
@@ -14,13 +14,13 @@ publishDate: '2023-11-09T00:00:00Z'
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['1']
+publication_types: ['6']
 
 # Publication name and optional abbreviated publication name.
-publication: 'in *Proceedings of the 9th International Workshop on Semantic Evaluation (SemEval 2015)*'
-publication_short: 'In *SemEval2015*'
+publication: 'in *Biemann, C., Mehler, A. (eds) Text Mining. Theory and Applications of Natural Language Processing*'
+publication_short: 'in *Biemann, C., Mehler, A. (eds) Text Mining. Theory and Applications of Natural Language Processing*'
 
-abstract: 'We present ExB Themis–a word alignmentbased semantic textual similarity system developed for SemEval-2015 Task 2: Semantic Textual Similarity. It combines both string and semantic similarity measures as well as alignment features using Support Vector Regression. It occupies the first three places on Spanish data and additionally places second on English data. ExB Themis proved to be the best multilingual system among all participants.'
+abstract: 'We describe the reasons and choices we made when designing an architecture for a multilingual Natural Language Processing (NLP) system for mobile devices. The most tangible limitations and problems are limited processing power of mobile devices, strong influence of idiolect (or generally personal language usage differentiation between individual users in their personal communication), effort required to port the NLP system to multiple languages, and finally the additional processing layers required when dealing with real-world data as opposed to controlled academic set-ups. Our solution is based on a strict differentiation between server-side preprocessing and client-side processing, as well as maximized usage of unsupervised techniques to avoid the problems posed by personal language usage variations. Hence it represents an adequate combination of solutions to provide robust NLP despite all these limitations.'
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.

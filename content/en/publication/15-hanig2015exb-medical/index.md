@@ -5,7 +5,8 @@ authors:
   - Remus, Robert 
   - Demchik, Vadim
   - Bordag, Stefan
-#date: '2023-09-11T00:00:00Z'
+# the Proceedings were published in 2017, paper is from 2015... https://biocreative.bioinformatics.udel.edu/resources/publications/bcv_proceedings/
+date: '2017-05-19T00:00:00Z'
 #doi: '10.18653/v1/s15-2046'
 
 # Schedule page publish date (NOT publication's date).
@@ -21,7 +22,7 @@ publication_types: ['1']
 publication: 'in *Proceedings of the fifth BioCreative challenge evaluation workshop*'
 publication_short: 'in *Proceedings of the fifth BioCreative challenge evaluation workshop*'
 
-abstract: 'We present ExB Medical Text Miner – a text mining pipeline for processing biomedical documents. This application employs state- of-the-art Named Entity Recognition, using linguistic features and word embeddings in a fully-connected second-order Conditional Random Field model, as well as a novel two-stage Relation Extraction module that first detects entity-level relations using a Support Vector Classifier, then iden- tifies document-level relations by measuring their relevance according to a document topic classification model.'
+abstract: 'We present ExB Medical Text Miner – a text mining pipeline for processing biomedical documents. This application employs state- of-the-art Named Entity Recognition, using linguistic features and word embeddings in a fully-connected second-order Conditional Random Field model, as well as a novel two-stage Relation Extraction module that first detects entity-level relations using a Support Vector Classifier, then identifies document-level relations by measuring their relevance according to a document topic classification model.'
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
