@@ -1,11 +1,9 @@
 ---
-title: 'Benefits of Unstructured Data for Industrial Quality Analysis'
+title: 'Improvements in unsupervised co-occurrence based parsing'
 authors:
   - Christian Hänig
-  - Martin Schierle 
-  - Daniel Trabold
-date: '2014-05-01T00:00:00Z'
-doi: '10.1007/978-1-4614-0373-9_20'
+date: '2010-07-01T00:00:00Z'
+#doi: '10.1007/978-1-4614-0373-9_20'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2011-01-01T00:00:00Z'
@@ -14,13 +12,13 @@ publishDate: '2011-01-01T00:00:00Z'
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['6']
+publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: 'in *Ao, SI., Amouzegar, M., Rieger, B. (eds) Intelligent Automation and Systems Engineering. Lecture Notes in Electrical Engineering, vol 103*'
-publication_short: 'in *Intelligent Automation and Systems Engineering. Lecture Notes in Electrical Engineering, vol 103*'
+publication: 'In *Proceedings of the Fourteenth Conference on Computational Natural Language Learning*'
+publication_short: 'In *Proceedings of the Fourteenth Conference on Computational Natural Language Learning*'
 
-abstract: 'Although Natural Language Processing (NLP) methods gained a lot of scientific interest over the past few decades, industrial use cases are still rare. Companies used to have mainly structured data (if there were data warehouses at all), and NLP methods were often complicated, unstandardized or just too slow.'
+abstract: 'This paper presents an algorithm for unsupervised co-occurrence based parsing that improves and extends existing approaches. The proposed algorithm induces a contextfree grammar of the language in question in an iterative manner. The resulting structure of a sentence will be given as a hierarchical arrangement of constituents. Although this algorithm does not use any a priori knowledge about the language, it is able to detect heads, modifiers and a phrase type’s different compound composition possibilities. For evaluation purposes, the algorithm is applied to manually annotated part-of-speech tags (POS tags) as well as to word classes induced by an unsupervised part-of-speech tagger.'
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.

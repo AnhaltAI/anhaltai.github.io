@@ -1,11 +1,11 @@
 ---
-title: 'Benefits of Unstructured Data for Industrial Quality Analysis'
+title: 'Comparison of structured vs. unstructured data for industrial quality analysis'
 authors:
   - Christian Hänig
-  - Martin Schierle 
+  - Martin Schierle
   - Daniel Trabold
-date: '2014-05-01T00:00:00Z'
-doi: '10.1007/978-1-4614-0373-9_20'
+date: '2010-10-20T00:00:00Z'
+#doi: '10.1007/978-1-4614-0373-9_20'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2011-01-01T00:00:00Z'
@@ -14,13 +14,23 @@ publishDate: '2011-01-01T00:00:00Z'
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['6']
+publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: 'in *Ao, SI., Amouzegar, M., Rieger, B. (eds) Intelligent Automation and Systems Engineering. Lecture Notes in Electrical Engineering, vol 103*'
-publication_short: 'in *Intelligent Automation and Systems Engineering. Lecture Notes in Electrical Engineering, vol 103*'
+publication: 'In *Proceedings of the World Congress on Engineering and Computer Science. Vol. 1*'
+publication_short: 'In *WCeCS 2010*'
 
-abstract: 'Although Natural Language Processing (NLP) methods gained a lot of scientific interest over the past few decades, industrial use cases are still rare. Companies used to have mainly structured data (if there were data warehouses at all), and NLP methods were often complicated, unstandardized or just too slow.'
+abstract: 'Industrial methods for quality analysis massively rely on structured data describing product
+features and product usage. The analysis of such data
+is normally done using complex reporting or sophisticated data mining methods. Besides this structured
+data, companies very often also posses large amounts
+of unstructured text like call center reports, internet
+fora or repair order documents. Despite the rising interest in text mining applications for industrial usage,
+the uncertainty about the real benefits is still high.
+In this work, we will present a comparison of the usage
+of structured versus unstructured data on two quality
+analysis use cases: Early warning and the detection
+of repeat repairs.'
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.

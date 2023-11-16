@@ -1,11 +1,10 @@
 ---
-title: 'Benefits of Unstructured Data for Industrial Quality Analysis'
+title: 'Towards well-grounded phrase-level polarity analysis'
 authors:
   - Christian Hänig
-  - Martin Schierle 
-  - Daniel Trabold
-date: '2014-05-01T00:00:00Z'
-doi: '10.1007/978-1-4614-0373-9_20'
+  - Robert Remus
+date: '2011-02-20T00:00:00Z'
+doi: 'https://doi.org/10.1007/978-3-642-19400-9_30'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2011-01-01T00:00:00Z'
@@ -14,13 +13,13 @@ publishDate: '2011-01-01T00:00:00Z'
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['6']
+publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: 'in *Ao, SI., Amouzegar, M., Rieger, B. (eds) Intelligent Automation and Systems Engineering. Lecture Notes in Electrical Engineering, vol 103*'
-publication_short: 'in *Intelligent Automation and Systems Engineering. Lecture Notes in Electrical Engineering, vol 103*'
+publication: 'In *12th International Conference on Computer Linguistics and Intelligent Processing CICLing 2011*'
+publication_short: 'In *CICLing 2011*'
 
-abstract: 'Although Natural Language Processing (NLP) methods gained a lot of scientific interest over the past few decades, industrial use cases are still rare. Companies used to have mainly structured data (if there were data warehouses at all), and NLP methods were often complicated, unstandardized or just too slow.'
+abstract: 'We propose a new rule-based system for phrase-level polarity analysis and show how it benefits from empirically validating its polarity composition through surveys with human subjects. The system’s two-layer architecture and its underlying structure, i.e. its composition model, are presented. Two functions for polarity aggregation are introduced that operate on newly defined semantic categories. These categories detach a word’s syntactic from its semantic behavior. An experimental setup is described that we use to carry out a thorough evaluation. It incorporates a newly created German-language data set that is made freely and publicly available. This data set contains polarity annotations at word-level, phrase-level and sentence-level and facilitates comparability between different studies and reproducibility of our results.' 
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.

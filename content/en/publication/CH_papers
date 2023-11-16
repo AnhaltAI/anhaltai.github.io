@@ -60,6 +60,14 @@
   publisher={Springer}
 }
 
+@inproceedings{hanig2011knowledge,
+  title={Knowledge-free verb detection through tag sequence alignment},
+  author={H{\"a}nig, Christian},
+  booktitle={Proceedings of the 18th Nordic Conference of Computational Linguistics (NODALIDA 2011)},
+  pages={291--294},
+  year={2011}
+}
+
 @inproceedings{remus2011towards,
   title={Towards well-grounded phrase-level polarity analysis},
   author={Remus, Robert and H{\"a}nig, Christian},
