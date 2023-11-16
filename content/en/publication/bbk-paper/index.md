@@ -1,5 +1,5 @@
 ---
-title: 'NLP-based Decision Support System for Examination of Eligibility Criteria from Securities Prospectuses at the German Central Bank.'
+title: 'NLP-based Decision Support System for Examination of Eligibility Criteria from Securities Prospectuses at the German Central Bank'
 authors:
   - Christian Hänig
   - Schlösser, Markus
