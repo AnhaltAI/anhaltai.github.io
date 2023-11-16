@@ -1,0 +1,117 @@
+@article{tumler2023virtual,
+  title={Virtual Reality, Eye Tracking and Machine Learning: Analysis of Learning Outcomes in Off-the-Shelve VR-Software},
+  author={T{\"u}mler, Johannes and Erazo Sanchez, Juan Enrique and H{\"a}nig, Christian},
+  year={2023},
+  publisher={Gesellschaft f{\"u}r Informatik eV}
+}
+
+@inproceedings{hanig2015exb,
+  title={Exb themis: Extensive feature extraction from word alignments for semantic textual similarity},
+  author={H{\"a}nig, Christian and Remus, Robert and De La Puente, Xose},
+  booktitle={Proceedings of the 9th international workshop on semantic evaluation (SemEval 2015)},
+  pages={264--268},
+  year={2015}
+}
+
+@inproceedings{hanig2015exb,
+  title={ExB Medical Text Miner},
+  author={H{\"a}nig, Christian and Remus, Robert and Demchik, Vadim and Bordag, Stefan},
+  booktitle={Proceedings of the fifth BioCreative challenge evaluation workshop},
+  year={2015}
+}
+
+@incollection{bordag2014structuralist,
+  title={A Structuralist Approach for Personal Knowledge Exploration Systems on Mobile Devices},
+  author={Bordag, Stefan and H{\"a}nig, Christian and Beutenm{\"u}ller, Christian},
+  booktitle={Text Mining: From Ontology Learning to Automated Text Processing Applications},
+  pages={115--136},
+  year={2014},
+  publisher={Springer}
+}
+
+@inproceedings{hanig2014modular,
+  title={Modular classifier ensemble architecture for named entity recognition on low resource systems},
+  author={H{\"a}nig, Christian and Thomas, Stefan and Bordag, Stefan},
+  booktitle={Workshop Proceedings of the 12th Edition of the KONVENS Conference},
+  pages={113--116},
+  year={2014}
+}
+
+@inproceedings{hanig2014pace,
+  title={PACE Corpus: a multilingual corpus of Polarity-annotated textual data from the domains Automotive and CEllphone.},
+  author={H{\"a}nig, Christian and Niekler, Andreas and W{\"u}nsch, Carsten},
+  booktitle={LREC},
+  pages={2219--2224},
+  year={2014}
+}
+
+@article{hanig2013unsupervised,
+  title={Unsupervised Natural Language Processing for Knowledge Extraction from Domain-specific Textual Resources},
+  author={H{\"a}nig, Christian},
+  year={2013}
+}
+
+@incollection{hanig2011benefits,
+  title={Benefits of Unstructured Data for Industrial Quality Analysis},
+  author={H{\"a}nig, Christian and Schierle, Martin and Trabold, Daniel},
+  booktitle={Intelligent Automation and Systems Engineering},
+  pages={257--270},
+  year={2011},
+  publisher={Springer}
+}
+
+@inproceedings{remus2011towards,
+  title={Towards well-grounded phrase-level polarity analysis},
+  author={Remus, Robert and H{\"a}nig, Christian},
+  booktitle={International Conference on Intelligent Text Processing and Computational Linguistics},
+  pages={380--392},
+  year={2011},
+  organization={Springer}
+}
+
+@article{bank2011using,
+  title={Using the internet as sensor for customer perception},
+  author={Bank, Mathias and H{\"a}nig, Christian},
+  journal={Proceedings of the Fachtagung zum Text-und Data Mining f{\"u}r die Qualit{\"a}tsanalyse in der Automobilindustrie},
+  pages={49--55},
+  year={2011}
+}
+
+@inproceedings{hanig2010comparison,
+  title={Comparison of structured vs. unstructured data for industrial quality analysis},
+  author={H{\"a}nig, Christian and Schierle, Martin and Trabold, Daniel},
+  booktitle={Proceedings of the World Congress on Engineering and Computer Science},
+  volume={1},
+  pages={20--22},
+  year={2010}
+}
+
+@inproceedings{hanig2010improvements,
+  title={Improvements in unsupervised co-occurrence based parsing},
+  author={H{\"a}nig, Christian},
+  booktitle={Proceedings of the Fourteenth Conference on Computational Natural Language Learning},
+  pages={1--8},
+  year={2010}
+}
+
+@inproceedings{hanig2010unsupervised,
+  title={Unsupervised part-of-speech disambiguation for high frequency words and its influence on unsupervised parsing},
+  author={H{\"a}nig, Christian},
+  booktitle={Computational Linguistics and Intelligent Text Processing: 11th International Conference, CICLing 2010, Ia{\c{s}}i, Romania, March 21-27, 2010. Proceedings 11},
+  pages={113--120},
+  year={2010},
+  organization={Springer}
+}
+
+@inproceedings{hanig2008unsuparse,
+  title={UnsuParse: unsupervised Parsing with unsupervised Part of Speech Tagging.},
+  author={H{\"a}nig, Christian and Bordag, Stefan and Quasthoff, Uwe},
+  booktitle={LREC},
+  year={2008},
+  organization={Citeseer}
+}
+
+@article{hanigunsupervised,
+  title={Unsupervised Natural Language Processing},
+  author={H{\"a}nig, Christian}
+}
