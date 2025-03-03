@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "AnhaltAI",
-    "section": "",
-    "text": "Coming soon…"
-  },
-  {
     "objectID": "impressum.html",
     "href": "impressum.html",
     "title": "Impressum",
@@ -47,5 +40,12 @@
     "title": "Impressum",
     "section": "Datenschutz",
     "text": "Datenschutz\nzum Datenschutz"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "AnhaltAI",
+    "section": "",
+    "text": "Coming soon…"
   }
 ]
