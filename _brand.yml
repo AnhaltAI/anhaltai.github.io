@@ -1,0 +1,36 @@
+logo:
+  small: "logos/anhaltai-icon-red_blue-transparent.png"
+  medium: "logos/anhaltai-banner-red_blue-transparent.png"
+  large: "logos/anhaltai-banner-red_blue-transparent.png"
+color:
+  palette:
+    anhalt-red: "#d40009"
+    technic-blue: "#12017c"
+    base-black: "#000000"
+    base-gray: "#efede8"
+    base-white: "#ffffff"
+    color-gradient-0: "#ee1c25"
+    color-gradient-1: "#da2138"
+    color-gradient-2: "#b72c4e"
+    color-gradient-3: "#9e2458"
+    color-gradient-4: "#6e2F75"
+    color-gradient-5: "#493087"
+    color-gradient-6: "#303192"
+  primary: base-black
+  secondary: technic-blue
+  success: "#3FB618" # Quarto callout tip
+  danger: anhalt-red
+  warning: "#FF7518" # Quarto callout warning
+  info: "#2780E3" # Quarto callout note
+  light: base-gray
+  dark: base-black
+typography:
+  fonts:
+    - family: Jura
+      source: google
+    - family: Space Mono
+      source: google
+  base: Jura
+  headings: Jura
+  link:
+    decoration: underline
