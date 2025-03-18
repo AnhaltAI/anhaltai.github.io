@@ -17,7 +17,22 @@ jobs:
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
 
-      - name: Render and Publish
+      - name: Render Quarto Project German
+        uses: quarto-dev/quarto-actions/render@v2
+        env:
+          QUARTO_PROFILE: de
+
+      - name: Render Quarto Project English
+        uses: quarto-dev/quarto-actions/render@v2
+        env:
+          QUARTO_PROFILE: en
+
+      - name: Render Quarto Project Ukrainian
+        uses: quarto-dev/quarto-actions/render@v2
+        env:
+          QUARTO_PROFILE: ua
+
+      - name: Publish Quarto Project
         uses: quarto-dev/quarto-actions/publish@v2
         with:
           target: gh-pages

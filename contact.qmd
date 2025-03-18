@@ -1,0 +1,48 @@
+---
+title: "Contact"
+titles:
+  de: "Kontakt"
+  en: "Contact"
+about:
+  id: hero-heading
+  template: trestles
+  image: logos/anhaltai-banner-red_blue-transparent.png
+  links:
+    - href: mailto:contact@anhalt.ai
+      text: "{{< iconify lets-icons:e-mail >}} mail"
+    - href: https://github.com/anhaltai
+      text: "{{< iconify mdi:github >}} anhaltai"
+    - href: https://huggingface.co/anhaltai
+      text: "{{< iconify noto-v1:hugging-face >}} anhaltai"
+    # Instagram
+    # PyPI
+
+# lightbox: true
+---
+
+:::{#hero-heading}
+
+:::: {.content-visible when-profile="de"}
+### Anschrift
+Lohmannstraße 23<br/>
+06366 Köthen<br/>
+Deutschland<br/>
+([Map](https://maps.app.goo.gl/LBFmC4Ww3YDnryZE6))
+
+### Lageplan
+<!-- https://www.hs-anhalt.de/leben/koethen/campus.html-->
+![[Campus Map Köthen](https://www.hs-anhalt.de/leben/koethen/campus.html)](https://www.hs-anhalt.de/fileadmin/Dateien/Bilderpool_HSA/Standorte/Koethen/20231109_Lageplan_Koet_kompl.jpg){.lightbox}
+::::
+
+:::: {.content-visible when-profile="en"}
+### Address
+  Lohmannstraße 23
+  06366 Köthen
+  Germany ([Map](https://maps.app.goo.gl/LBFmC4Ww3YDnryZE6))
+
+### Campus Map
+<!-- https://www.hs-anhalt.de/leben/koethen/campus.html-->
+![[Campus Map Köthen](https://www.hs-anhalt.de/leben/koethen/campus.html)](https://www.hs-anhalt.de/fileadmin/Dateien/Bilderpool_HSA/Standorte/Koethen/20231109_Lageplan_Koet_kompl.jpg){.lightbox}
+::::
+
+:::

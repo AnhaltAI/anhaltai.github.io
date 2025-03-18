@@ -5,7 +5,7 @@ title: "Impressum"
 ## Herausgeber
 Die Hochschule Anhalt ist eine Körperschaft des Öffentlichen Rechts. Sie wird durch den Präsidenten Prof. Dr. Jörg Bagdahn gesetzlich vertreten.
 
-Inhaltlich Verantwortlicher für den Internetauftritt [http://anhalt.ai/](http://anhalt.ai/) gemäß § 55 Abs. 2 RStV:
+Inhaltlich Verantwortlicher für den Internetauftritt [https://anhalt.ai/](https://anhalt.ai/) gemäß § 55 Abs. 2 RStV:
 Prof. Dr. Christian Hänig
 
 Hochschule Anhalt<br/>
