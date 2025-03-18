@@ -23,11 +23,11 @@ website:
         href: publications.qmd
       - text: Kontakt
         href: contact.qmd
-    right:
-      - text: EN
-        href: ../en
-      - text: UA
-        href: ../ua
+#    right:
+#      - text: EN
+#        href: ../en
+#      - text: UA
+#        href: ../ua
 format:
   html:
     lang: de
