@@ -1,0 +1,33 @@
+project:
+  output-dir: _site/ua
+
+website:
+  title: "AnhaltAI"
+  navbar:
+    left:
+      - text: Головна
+        href: index.qmd
+      - text: Блог
+        href: blog.qmd
+      - text: Команда
+        href: team.qmd
+      - text: Навчання (нім.)
+        href: courses.qmd
+      - text: Дипломні роботи
+        href: theses.qmd
+      - text: Проєкти
+        href: projects.qmd
+      - text: Теми досліджень
+        href: research_topics.qmd
+      - text: Публікації
+        href: publications.qmd
+      - text: Контакти
+        href: contact.qmd
+    right:
+      - text: DE
+        href: ../de
+      - text: EN
+        href: ../en
+format:
+  html:
+    lang: ua

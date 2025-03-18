@@ -1,0 +1,33 @@
+project:
+  output-dir: _site/de
+
+website:
+  title: "AnhaltAI"
+  navbar:
+    left:
+      - text: Home
+        href: index.qmd
+      - text: Blog
+        href: blog.qmd
+      - text: Team
+        href: team.qmd
+      - text: Lehre
+        href: courses.qmd
+      - text: Abschlussarbeiten
+        href: theses.qmd
+      - text: Projekte
+        href: projects.qmd
+      - text: Forschungsschwerpunkte
+        href: research_topics.qmd
+      - text: Veröffentlichungen
+        href: publications.qmd
+      - text: Kontakt
+        href: contact.qmd
+    right:
+      - text: EN
+        href: ../en
+      - text: UA
+        href: ../ua
+format:
+  html:
+    lang: de

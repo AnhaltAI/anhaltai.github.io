@@ -1,5 +1,14 @@
 project:
   type: website
+  preview:
+    port: 9090
+    browser: false
+  post-render: _extensions/redirect_root_to_de.py
+
+profile:
+  default: de
+  group:
+    - [de, en, ua]
 
 website:
   title: "AnhaltAI"
@@ -12,6 +21,10 @@ website:
   page-footer:
     background: light
     center:
+      - text: "{{< iconify mdi:github >}} anhaltai"
+        href: https://github.com/anhaltai
+      - text: "{{< iconify noto-v1:hugging-face >}} anhaltai"
+        href: https://huggingface.co/anhaltai
       - text: "Impressum"
         href: impressum.qmd
 
@@ -21,3 +34,4 @@ format:
       - cosmo
       - brand
     css: styles.css
+    toc: false

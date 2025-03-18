@@ -1,0 +1,2 @@
+# Enable per-language title filter in all documents 
+filters: [filters/conditional-metadata.lua]
